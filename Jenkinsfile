@@ -10,7 +10,7 @@ pipeline {
             steps {
 		    sh 'echo "Hello World with AWS creds"'
 	          }
-        }
-     }
- }
+           }
+      }
+  }
 
